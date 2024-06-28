@@ -4,7 +4,7 @@ export GITLAB__DEFAULT__HOST=gitlab.com
 export QUAY__DEFAULT__HOST=quay.io
 
 # PE can replace these values with own pipeline fork
-export PIPELINE__REPO__URL=https://github.com/redhat-appstudio/tssc-sample-pipelines
+export PIPELINE__REPO__URL=https://github.com/redhat-na-ssa/tssc-sample-pipelines
 export PIPELINE__REPO__BRANCH=main
 
 export DEFAULT__DEPLOYMENT__NAMESPACE__PREFIX=rhtap-app
